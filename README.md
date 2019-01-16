@@ -1,4 +1,2 @@
-# Are you a Bucktee?
-
-Detect and track faces from the selfie cam feed in real time and measures facial proportions to compare them with the golden ratio.
-
+- iOS application created using Swift 4, XCode, VNFaceLandmarks2D, and CoreML Frameworks
+- Connects to a phone's camera and uses facial recognition software to  calculate the distance between specific points on the user's face and outputs a score for the beauty of the person based on the Divine Proportion algorithm. 
